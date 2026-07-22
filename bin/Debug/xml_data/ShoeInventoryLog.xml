@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LogMessages>
+  <LogMessage id="1">test log message</LogMessage>
+  <LogMessage id="2">8/6/2025 5:25:47 PM new shoe item added with id 11</LogMessage>
+  <LogMessage id="3">8/6/2025 5:27:16 PM new shoe item added with id 12</LogMessage>
+  <LogMessage id="4">8/6/2025 5:28:50 PM edit shoe item added with id 12</LogMessage>
+  <LogMessage id="5">8/6/2025 5:30:58 PM deleted shoe item with id 11</LogMessage>
+  <LogMessage id="6">8/6/2025 5:33:40 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="7">8/6/2025 5:33:41 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="8">17/7/2026 12:04:17 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="9">17/7/2026 12:04:25 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="10">17/7/2026 12:05:27 PM new shoe item added with id 13</LogMessage>
+  <LogMessage id="11">17/7/2026 12:05:28 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="12">17/7/2026 1:49:27 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="13">17/7/2026 1:49:35 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="14">17/7/2026 1:50:35 PM edit shoe item with id 12</LogMessage>
+  <LogMessage id="15">17/7/2026 1:50:36 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="16">17/7/2026 1:50:44 PM deleted shoe item with id 12</LogMessage>
+  <LogMessage id="17">17/7/2026 1:50:48 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="18">17/7/2026 2:00:47 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="19">17/7/2026 2:35:20 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="20">17/7/2026 2:35:40 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="21">17/7/2026 2:36:15 PM new shoe item added with id 14</LogMessage>
+  <LogMessage id="22">17/7/2026 2:36:17 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="23">17/7/2026 3:01:24 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="24">17/7/2026 3:03:13 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="25">17/7/2026 3:03:58 PM edit shoe item with id 14</LogMessage>
+  <LogMessage id="26">17/7/2026 3:04:01 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="27">17/7/2026 3:04:38 PM edit shoe item with id 14</LogMessage>
+  <LogMessage id="28">17/7/2026 3:04:40 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="29">17/7/2026 3:33:32 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="30">20/7/2026 2:12:59 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="31">20/7/2026 2:13:33 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="32">20/7/2026 2:14:57 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="33">20/7/2026 2:33:43 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="34">20/7/2026 2:41:38 PM execute command to view all shoe list.</LogMessage>
+  <LogMessage id="35">20/7/2026 2:41:44 PM execute command to view shoe item by id.</LogMessage>
+</LogMessages>

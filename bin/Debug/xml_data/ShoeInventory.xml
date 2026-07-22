@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShoesLists>
+  <ShoeList>
+    <Id description="id description">1</Id>
+    <ShoeName description="shoe name description">ShoeName1</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription1</ShoeDescription>
+    <ShoePrice description="shoe price dscription">12.00</ShoePrice>
+    <ShoeSize description="shoe size description">7</ShoeSize>
+    <Quantity description="shoe quantity description">11</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="id description">2</Id>
+    <ShoeName description="shoe name description">ShoeName2</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription2</ShoeDescription>
+    <ShoePrice description="shoe price dscription">12.25</ShoePrice>
+    <ShoeSize description="shoe size description">5</ShoeSize>
+    <Quantity description="shoe quantity description">19</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="id description">3</Id>
+    <ShoeName description="shoe name description">ShoeName3</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription3</ShoeDescription>
+    <ShoePrice description="shoe price dscription">0.25</ShoePrice>
+    <ShoeSize description="shoe size description">20</ShoeSize>
+    <Quantity description="shoe quantity description">20</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="id description">4</Id>
+    <ShoeName description="shoe name description">ShoeName4</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription4</ShoeDescription>
+    <ShoePrice description="shoe price dscription">0.00</ShoePrice>
+    <ShoeSize description="shoe size description">1</ShoeSize>
+    <Quantity description="shoe quantity description">0</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="id description">5</Id>
+    <ShoeName description="shoe name description">ShoeName5</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription5</ShoeDescription>
+    <ShoePrice description="shoe price dscription">0.50</ShoePrice>
+    <ShoeSize description="shoe size description">100</ShoeSize>
+    <Quantity description="shoe quantity description">10</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="id description">8</Id>
+    <ShoeName>shoeName7</ShoeName>
+    <ShoeDescription>shoeName7</ShoeDescription>
+    <ShoePrice>shoeName7</ShoePrice>
+    <ShoeSize>shoeName7</ShoeSize>
+    <Quantity>shoeName7</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="8/6/2025 4:53:24 PM: new shoe item added.">7</Id>
+    <ShoeName description="shoe name description">ShoeName8</ShoeName>
+    <ShoeDescription description="shoe description description">ShoeDescription8</ShoeDescription>
+    <ShoePrice description="shoe price dscription">10</ShoePrice>
+    <ShoeSize description="shoe size description">1</ShoeSize>
+    <Quantity description="shoe quantity description">1</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="8/6/2025 4:55:12 PM: new shoe item added.">10</Id>
+    <ShoeName description="8/6/2025 5:07:49 PMshoe name update">edit10</ShoeName>
+    <ShoeDescription description="8/6/2025 5:07:49 PMshoe description update">edit10_1</ShoeDescription>
+    <ShoePrice description="8/6/2025 5:07:49 PMshoe update update">edit10_2</ShoePrice>
+    <ShoeSize description="8/6/2025 5:07:49 PMshoe size update">edit10_3</ShoeSize>
+    <Quantity description="8/6/2025 5:07:49 PMquantity update">edit10_4</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="17/7/2026 12:05:27 PM: new shoe item added.">13</Id>
+    <ShoeName description="shoe name description">ShoeName13</ShoeName>
+    <ShoeDescription description="shoe description description">shoeDescription13</ShoeDescription>
+    <ShoePrice description="shoe price dscription">13.00</ShoePrice>
+    <ShoeSize description="shoe size description">13</ShoeSize>
+    <Quantity description="shoe quantity description">13</Quantity>
+  </ShoeList>
+  <ShoeList>
+    <Id description="17/7/2026 2:36:15 PM: new shoe item added.">14</Id>
+    <ShoeName description="17/7/2026 3:04:38 PM shoe name update">shoe_name_14_edit</ShoeName>
+    <ShoeDescription description="17/7/2026 3:04:38 PM shoe description update">shoe_description_14_edit</ShoeDescription>
+    <ShoePrice description="17/7/2026 3:04:38 PM shoe update update">15.00</ShoePrice>
+    <ShoeSize description="17/7/2026 3:04:38 PM shoe size update">15</ShoeSize>
+    <Quantity description="17/7/2026 3:04:38 PM quantity update">15</Quantity>
+  </ShoeList>
+</ShoesLists>
