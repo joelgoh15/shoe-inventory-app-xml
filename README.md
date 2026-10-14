@@ -1,9 +1,9 @@
 ## About
 
-<p>shoe inventory application.</p>
-<p>utilizes xml file for data storage.</p>
-<p>console application in c#. </p>
-<p>utilizes linq to xml.</p>
-<p>c.r.u.d data operations.</p>
-<p>xml data file is located at bin/debug/xml_data</p>
+<p>Shoe inventory application.</p>
+<p>Utilizes XML file for data storage.</p>
+<p>Console application in C#. </p>
+<p>Utilizes LINQ to XML.</p>
+<p>C.R.U.D data operations.</p>
+<p>XML data file is located at "bin/debug/xml_data".</p>
 
